@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DutchMan\\source\\repos\\Patterns\\ChainOfResponsibility\\ChainOfResponsibility.csproj": {}
+    "C:\\Users\\DutchMan\\Source\\Repos\\Patterns2\\ChainOfResponsibility\\ChainOfResponsibility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DutchMan\\source\\repos\\Patterns\\ChainOfResponsibility\\ChainOfResponsibility.csproj": {
+    "C:\\Users\\DutchMan\\Source\\Repos\\Patterns2\\ChainOfResponsibility\\ChainOfResponsibility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DutchMan\\source\\repos\\Patterns\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
+        "projectUniqueName": "C:\\Users\\DutchMan\\Source\\Repos\\Patterns2\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
         "projectName": "ChainOfResponsibility",
-        "projectPath": "C:\\Users\\DutchMan\\source\\repos\\Patterns\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
+        "projectPath": "C:\\Users\\DutchMan\\Source\\Repos\\Patterns2\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
         "packagesPath": "C:\\Users\\DutchMan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DutchMan\\source\\repos\\Patterns\\ChainOfResponsibility\\obj\\",
+        "outputPath": "C:\\Users\\DutchMan\\Source\\Repos\\Patterns2\\ChainOfResponsibility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

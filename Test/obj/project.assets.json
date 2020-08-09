@@ -1655,6 +1655,16 @@
         "runtime": {
           "bin/placeholder/ChainOfResponsibility.dll": {}
         }
+      },
+      "State/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/State.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/State.dll": {}
+        }
       }
     }
   },
@@ -5522,12 +5532,18 @@
       "type": "project",
       "path": "../ChainOfResponsibility/ChainOfResponsibility.csproj",
       "msbuildProject": "../ChainOfResponsibility/ChainOfResponsibility.csproj"
+    },
+    "State/1.0.0": {
+      "type": "project",
+      "path": "../State/State.csproj",
+      "msbuildProject": "../State/State.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "ChainOfResponsibility >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.7.0",
+      "State >= 1.0.0",
       "more.xunit.runner.visualstudio >= 2.3.1",
       "xunit >= 2.4.1"
     ]
@@ -5539,11 +5555,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DutchMan\\source\\repos\\Patterns\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\DutchMan\\Source\\Repos\\Patterns2\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\DutchMan\\source\\repos\\Patterns\\Test\\Test.csproj",
+      "projectPath": "C:\\Users\\DutchMan\\Source\\Repos\\Patterns2\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\DutchMan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DutchMan\\source\\repos\\Patterns\\Test\\obj\\",
+      "outputPath": "C:\\Users\\DutchMan\\Source\\Repos\\Patterns2\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5562,8 +5578,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\DutchMan\\source\\repos\\Patterns\\ChainOfResponsibility\\ChainOfResponsibility.csproj": {
-              "projectPath": "C:\\Users\\DutchMan\\source\\repos\\Patterns\\ChainOfResponsibility\\ChainOfResponsibility.csproj"
+            "C:\\Users\\DutchMan\\Source\\Repos\\Patterns2\\ChainOfResponsibility\\ChainOfResponsibility.csproj": {
+              "projectPath": "C:\\Users\\DutchMan\\Source\\Repos\\Patterns2\\ChainOfResponsibility\\ChainOfResponsibility.csproj"
+            },
+            "C:\\Users\\DutchMan\\Source\\Repos\\Patterns2\\State\\State.csproj": {
+              "projectPath": "C:\\Users\\DutchMan\\Source\\Repos\\Patterns2\\State\\State.csproj"
             }
           }
         }

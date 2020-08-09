@@ -10,6 +10,7 @@
         "dependencies": {
           "ChainOfResponsibility": "1.0.0",
           "Microsoft.NET.Test.Sdk": "16.7.0",
+          "State": "1.0.0",
           "more.xunit.runner.visualstudio": "2.3.1",
           "xunit": "2.4.1"
         },
@@ -1094,6 +1095,11 @@
         "runtime": {
           "ChainOfResponsibility.dll": {}
         }
+      },
+      "State/1.0.0": {
+        "runtime": {
+          "State.dll": {}
+        }
       }
     }
   },
@@ -1734,6 +1740,11 @@
       "hashPath": "xunit.extensibility.execution.2.4.1.nupkg.sha512"
     },
     "ChainOfResponsibility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "State/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
