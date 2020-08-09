@@ -1,0 +1,7 @@
+C:\Users\DutchMan\source\repos\Patterns\ChainOfResponsibility\bin\x64\Debug\netcoreapp3.1\ChainOfResponsibility.deps.json
+C:\Users\DutchMan\source\repos\Patterns\ChainOfResponsibility\bin\x64\Debug\netcoreapp3.1\ChainOfResponsibility.dll
+C:\Users\DutchMan\source\repos\Patterns\ChainOfResponsibility\bin\x64\Debug\netcoreapp3.1\ChainOfResponsibility.pdb
+C:\Users\DutchMan\source\repos\Patterns\ChainOfResponsibility\obj\x64\Debug\netcoreapp3.1\ChainOfResponsibility.AssemblyInfoInputs.cache
+C:\Users\DutchMan\source\repos\Patterns\ChainOfResponsibility\obj\x64\Debug\netcoreapp3.1\ChainOfResponsibility.AssemblyInfo.cs
+C:\Users\DutchMan\source\repos\Patterns\ChainOfResponsibility\obj\x64\Debug\netcoreapp3.1\ChainOfResponsibility.dll
+C:\Users\DutchMan\source\repos\Patterns\ChainOfResponsibility\obj\x64\Debug\netcoreapp3.1\ChainOfResponsibility.pdb
