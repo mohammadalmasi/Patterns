@@ -1,7 +1,0 @@
-C:\Users\DutchMan\source\repos\Patterns2\State\bin\x64\Debug\netcoreapp3.1\State.deps.json
-C:\Users\DutchMan\source\repos\Patterns2\State\bin\x64\Debug\netcoreapp3.1\State.dll
-C:\Users\DutchMan\source\repos\Patterns2\State\bin\x64\Debug\netcoreapp3.1\State.pdb
-C:\Users\DutchMan\source\repos\Patterns2\State\obj\x64\Debug\netcoreapp3.1\State.AssemblyInfoInputs.cache
-C:\Users\DutchMan\source\repos\Patterns2\State\obj\x64\Debug\netcoreapp3.1\State.AssemblyInfo.cs
-C:\Users\DutchMan\source\repos\Patterns2\State\obj\x64\Debug\netcoreapp3.1\State.dll
-C:\Users\DutchMan\source\repos\Patterns2\State\obj\x64\Debug\netcoreapp3.1\State.pdb
